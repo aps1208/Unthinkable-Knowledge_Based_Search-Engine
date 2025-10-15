@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+pypdf
+python-dotenv
+python-multipart
+sentence-transformers
+langchain-huggingface
+langchain-chroma
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[argon2]==1.7.4
